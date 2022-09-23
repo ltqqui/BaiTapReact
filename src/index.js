@@ -11,7 +11,7 @@ root.render(
   //   <App />
   // </React.StrictMode>
   <div className='abc'>
-    {/* <ReactBuoi1/> */}
+    <ReactBuoi1/>
     <BaitapReactBuoi2/>
   </div>
 );
